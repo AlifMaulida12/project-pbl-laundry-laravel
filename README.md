@@ -1,3 +1,50 @@
+# 🧺 Laundry Service – Web Admin
+
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+## 📌 Deskripsi
+Aplikasi **Web Admin Laundry** merupakan bagian dari **Project Best Learning (PBL)** yang digunakan oleh pengelola **Tyo Super Laundry** untuk mengelola pesanan cucian, data pelanggan, transaksi, serta laporan secara terkomputerisasi.
+
+Aplikasi ini dikembangkan secara bertahap selama perkuliahan (Semester 3–5).
+
+---
+
+## 🎯 Tujuan
+- Mempermudah pengelolaan pesanan laundry
+- Memantau status cucian pelanggan
+- Mengelola data pelanggan dan transaksi
+- Menghasilkan laporan periodik
+
+---
+
+## ✨ Fitur Utama
+- Manajemen pesanan cucian
+- Update status cucian
+- Pengelolaan data pelanggan
+- Pengelolaan transaksi
+- Laporan periodik
+
+---
+
+## 🛠️ Teknologi
+- **Framework** : Laravel  
+- **UI** : Bootstrap  
+- **Database** : MySQL  
+- **Tools** : GitHub, Figma, VS Code  
+
+---
+
+## 👨‍💻 Peran Saya
+- Analisis kebutuhan sistem
+- Perancangan sistem dan database
+- Implementasi fitur web admin
+- Pengujian fungsional
+
+---
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
